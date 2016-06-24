@@ -1,0 +1,19 @@
+.octodex {
+  display:block;
+  width:90%;
+}
+li {
+  list-style:none;
+}
+.octocat {
+  float: left;
+}
+li.octocat img {
+  width: 424px;
+}
+.octocat.image-footer.image-caption.authors img {
+  width: 16px;
+}
+.authors img {
+  width: 16px;
+}
